@@ -1,8 +1,1 @@
-### Hi
-
-#### I’m a noob and I like making and breaking stuff.
-#### https://adityainfinite.github.io/
-
-<P id="repos">
-  hi
-</P>
+![My github stats](https://github-readme-stats.vercel.app/api?username=AdityaInfinite&show_icons=true&theme=dark&count_private=true&hide=stars,contribs&custom_title=My%20Github%20Stats)
